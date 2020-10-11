@@ -48,7 +48,7 @@
 如果这个动图加载不出来, 可以把Readme下载下来, 使用这个链接去看 https://tva1.sinaimg.cn/large/007S8ZIlly1gjl6kvny2eg30d40sib2n.gif
 ![git动图](https://tva1.sinaimg.cn/large/007S8ZIlly1gjl6kvny2eg30d40sib2n.gif)
 
-## <span id="head7"> Tanks</span>
+## <span id="head7"> Thanks</span>
 [xkerwin](https://github.com/xkerwin/Scriptbale/tree/main/Weather)
 
 
