@@ -8,7 +8,7 @@
 # <span id="head1"> widgetScript</span>
 
 使用方法：
-1.你需要在你的手机上安装 Scriptable ![testflight版本](https://testflight.apple.com/join/uN1vTqxk) 或者 [AppStore版本](https://apps.apple.com/cn/app/scriptable/id1405459188)
+1.你需要在你的手机上安装 Scriptable [testflight版本](https://testflight.apple.com/join/uN1vTqxk) 或者 [AppStore版本](https://apps.apple.com/cn/app/scriptable/id1405459188)
 
 2.下载你想使用的脚本, 放到scriptable中; 或者点击对应的脚本, 复制所有代码,在scriptable中创建一个新的script,将复制的代码新建的script中
 
